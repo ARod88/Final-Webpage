@@ -1,0 +1,33 @@
+/*
+
+
+
+*/
+
+img {
+    height:500px;
+    width:600px;
+    border:5px dashed blue ;
+}
+
+h1 {
+
+    color:blueviolet;
+}
+
+#experience {
+    color:rgb(174, 174, 220);
+    
+}
+
+.white-text {
+    color:white;
+}
+
+#exp-text {
+    color:whitesmoke;
+}
+#exp-content {
+    background-color: blue;
+    opacity:0.7 ;
+}
